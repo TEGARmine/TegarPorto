@@ -4,7 +4,12 @@
       <div class="container">
         <div class="dizme_tm_main_title" data-align="center">
           <h3>My Portfolio</h3>
-          <p>Explore my portfolio, where my skills in full stack development come to life. These projects highlight my expertise in technologies like Laravel, Python, and NextJs, demonstrating my dedication to creating innovative solutions.</p>
+          <p>
+            Explore my portfolio, where my skills in full stack development come
+            to life. These projects highlight my expertise in technologies like
+            Laravel, Python, and NextJs, demonstrating my dedication to creating
+            innovative solutions.
+          </p>
         </div>
         <div class="portfolio_filter">
           <ul>
@@ -37,7 +42,6 @@
             </li>
           </ul>
         </div>
-
 
         <div class="dizme_tm_portfolio_titles"></div>
         <div class="portfolio_list wow fadeInUp" data-wow-duration="1s">
@@ -147,7 +151,10 @@
                     target="_blank"
                   >
                     <img src="/img/thumbs/42-34.jpg" alt="" />
-                    <div class="main" data-img-url="/img/portfolio/10.jpg"></div>
+                    <div
+                      class="main"
+                      data-img-url="/img/portfolio/10.jpg"
+                    ></div>
                   </a>
                 </div>
                 <div class="mobile_title">
@@ -170,7 +177,10 @@
                     target="_blank"
                   >
                     <img src="/img/thumbs/42-34.jpg" alt="" />
-                    <div class="main" data-img-url="/img/portfolio/12.jpg"></div>
+                    <div
+                      class="main"
+                      data-img-url="/img/portfolio/12.jpg"
+                    ></div>
                   </a>
                 </div>
                 <div class="mobile_title">
@@ -182,7 +192,7 @@
           </ul>
         </div>
       </div>
-      
+
       <div class="brush_1 wow zoomIn" data-wow-duration="1s">
         <img src="/img/brushes/portfolio/1.png" alt="" />
       </div>
@@ -201,7 +211,6 @@
 
 <script>
 import MagnificPopUpVue from "./popup/MagnificPopUp.vue";
-import ModalBox from "./popup/ModalBox.vue";
 export default {
   name: "PortfolioComponent",
   data() {
@@ -268,6 +277,6 @@ export default {
       this.active = 0;
     },
   },
-  components: { MagnificPopUpVue, ModalBox },
+  components: { MagnificPopUpVue },
 };
 </script>
