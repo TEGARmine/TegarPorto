@@ -27,7 +27,7 @@
             </div>
             <div class="button">
               <div class="dizme_tm_button">
-                <a class="anchor" href="https://wa.me/6285275048404" target="_blank"><span>Whatsapp</span></a>
+                <a class="anchor" href="https://wa.me/6285761652392" target="_blank"><span>Whatsapp</span></a>
               </div>
             </div>
           </div>

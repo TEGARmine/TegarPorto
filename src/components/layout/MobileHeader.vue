@@ -27,7 +27,7 @@
           <li><a href="#service">Service</a></li>
           <li><a href="https://medium.com/@TegarPratamaa" target="_blank">Blog</a></li>
           <li>
-              <a href="https://wa.me/628984146699" target="_blank">Whatsapp</a>
+              <a href="https://wa.me/6285761652392" target="_blank">Whatsapp</a>
             </li>
             <li>
               <a

@@ -17,7 +17,7 @@
           <div class="right wow fadeInRight" data-wow-duration="1s">
             <ul>
               <li>
-                <a href="https://wa.me/6285275048404" target="_blank"
+                <a href="https://wa.me/6285761652392" target="_blank"
                   >Whatsapp</a
                 >
               </li>
